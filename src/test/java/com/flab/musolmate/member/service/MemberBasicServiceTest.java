@@ -48,7 +48,7 @@ class MemberBasicServiceTest {
     @Test
     public void 회원등록(){
         // given
-        String email = "aaa@gmail.com";
+        String email = "111aaa@gmail.com";
         String password = "1234qwer";
         String nickName = "aaa";
 
